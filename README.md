@@ -1,16 +1,13 @@
-### Hi there 👋
+# Assalamu'alaikum semuanya 👋 
 
-<!--
-**kokokm/kokokm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan namaku **Koko Kodratul Munawar**.
 
-Here are some ideas to get you started:
+Saya seorang **mahasiswa** di **STMIK IKMI Cirebon**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya mengambil jurusan **Manajemen Informatika**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/koko-kodratul-munawar-02a447246/)ku ya!
+
+Tetap Semangat semua 💪
+
+✨ *Have a nice day* ✨
